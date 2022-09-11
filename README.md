@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdullahi-auwalu
 - 👀 I’m a full-stack developer
-- 🌱 I’m a JavaScript and python developer 
+- 🌱 My skills HTML, CSS, JavaScript, React, Nodejs, Expressjs, mongo DB, python,
 - 💞️ I’m looking to collaborate on solving problems 
 - 📫 How to reach me awaluabdullahi07@gmail.com 
 
