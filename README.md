@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg?size=626&ext=jpg)]
+![MasterHead](https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg?size=626&ext=jpg)
 <h1 align="center">Hi 👋, I'm Abdullahi Auwalu</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" />
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahi-auwalu" alt="abdullahi-auwalu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/adabdullahi5?t=cpg-fdi-8g5ncz2lwmp_sg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/adabdullahi5?t=cpg-fdi-8g5ncz2lwmp_sg&s=09?logo=twitter&style=for-the-badge" alt="https://twitter.com/adabdullahi5?t=cpg-fdi-8g5ncz2lwmp_sg&s=09" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/adabdullahi5?t=cpg-fdi-8g5ncz2lwmp_sg&s=09" target="blank"></a> </p>
 
 - 🔭 I’m currently working on **Online learning website**
 
